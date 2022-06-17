@@ -1,0 +1,60 @@
+
+body{
+	min-width: 375px;
+	max-width: 1440px;
+	background-image: url("bg-intro-desktop.png");
+	background-color:  hsl(0, 100%, 74%);
+	font-style: 16px;
+	font-family: 'Poppins' , Serif;
+	color: white;
+}
+
+.col{
+	background-color: hsl(154, 59%, 51%);
+	border-radius: 40px;
+	color: white;
+	padding: 10px;
+
+
+}
+article{
+	float: left;
+}
+aside
+{
+	padding: 10px;
+background-color: white;
+	border-radius: 2px;
+	float: right;}
+label{
+	float: right;
+ background-color: hsl(248, 32%, 49%)  ;
+ border-radius: 100px;
+ padding:5px;
+}
+
+## Colors
+
+### Primary
+
+- Red: hsl(0, 100%, 74%) 
+- Green: hsl(154, 59%, 51%)
+
+### Accent
+
+- Blue: hsl(248, 32%, 49%)
+
+### Neutral
+
+- Dark Blue: hsl(249, 10%, 26%) 
+- Grayish Blue: hsl(246, 25%, 77%)
+
+## Typography
+
+### Body Copy
+
+- Font size: 16px
+
+### Font
+
+- Weights: 400, 500, 600, 700
